@@ -10,7 +10,7 @@ function Navbar(){
     <div class={styles.navbar}>
         <Container>
             <Link to= "/">
-                <img src={logo} alt="Casas Ilheus" style={{ width: '15%'}} />
+                <img src={logo} alt="Casas Ilheus" style={{ width: '120px'}} />
                 </Link>
       <ul class = {styles.list}>
             <li className={styles.item}>

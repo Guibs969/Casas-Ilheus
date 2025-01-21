@@ -31,7 +31,7 @@ list-style-type: none ;
 
 .social_list li:hover {
 
-    color: #81dddc;
+    color: #ff7e33
 
 }
 
@@ -50,6 +50,6 @@ list-style-type: none ;
 .copy_right span {
 
     font-weight: bold;
-    color: white;
+    color: #ff7e33
 
 }
