@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Casas-Ilheus/static/css/main.31f33fcf.css",
+    "main.js": "/Casas-Ilheus/static/js/main.b0c14f29.js",
+    "static/media/costs_logo.png": "/Casas-Ilheus/static/media/costs_logo.7bcf621972183df1a43d.png",
+    "index.html": "/Casas-Ilheus/index.html",
+    "main.31f33fcf.css.map": "/Casas-Ilheus/static/css/main.31f33fcf.css.map",
+    "main.b0c14f29.js.map": "/Casas-Ilheus/static/js/main.b0c14f29.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31f33fcf.css",
+    "static/js/main.b0c14f29.js"
+  ]
+}
