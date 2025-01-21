@@ -1,18 +1,40 @@
 *{
-padding: 0%;
-margin: 0%;
-box-sizing: border-box;
-font-family: 'Open Sans', sans-serif ;
-
+  padding: 0%;
+  margin: 0%;
+  box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif;
 }
-
 
 html, 
 body, 
-#root{ 
-
+#root { 
   background-color: aliceblue;
   height: 100%;
+}
 
 
+@media (min-width: 1024px) {
+  body {
+    font-size: 16px;
+  }
+
+  
+}
+
+/* Estilos para tablets */
+@media (min-width: 768px) and (max-width: 1023px) {
+  body {
+    font-size: 14px;
+  }
+
+  
+}
+
+/* Estilos para celulares */
+@media (max-width: 767px) {
+  body {
+    font-size: 12px;
+  }
+
+  
 }

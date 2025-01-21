@@ -53,3 +53,29 @@ list-style-type: none ;
     color: #ff7e33
 
 }
+/* Estilos para telas maiores (desktops) */
+@media (min-width: 1024px) {
+    body {
+      font-size: 16px;
+    }
+  
+    /* Adicione mais estilos específicos para desktops aqui */
+  }
+  
+  /* Estilos para tablets */
+  @media (min-width: 768px) and (max-width: 1023px) {
+    body {
+      font-size: 14px;
+    }
+  
+    /* Adicione mais estilos específicos para tablets aqui */
+  }
+  
+  /* Estilos para celulares */
+  @media (max-width: 767px) {
+    body {
+      font-size: 12px;
+    }
+  
+    /* Adicione mais estilos específicos para celulares aqui */
+  }

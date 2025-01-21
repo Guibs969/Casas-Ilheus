@@ -2,7 +2,7 @@ import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'
 import Home from './components/pages/Home'
 import Contact from './components/pages/Contact'
 import Company from './components/pages/Company'
-import Container from './components/layout/Container'
+
 import Navbar from './components/layout/Navbar'
 import Footer from './components/layout/Footer'
 
@@ -14,7 +14,7 @@ function App() {
       <Navbar />
 
    <Switch>
-      <Container customClass="min-height">
+     
     
         <Route exact path="/">
         <Home />
@@ -30,7 +30,8 @@ function App() {
 
 
 
-    </Container>  
+
+ 
   </Switch>
   
       <Footer></Footer>
