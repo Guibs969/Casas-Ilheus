@@ -4,7 +4,7 @@ function Company(){
         <div style={{ minHeight: '100vh', display: 'flex', flexDirection: 'column' }}>
     
     
-        <h1>Comapany</h1>
+    <h1>Site em construção 🚧 </h1>
     
     
     
