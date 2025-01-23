@@ -2,8 +2,7 @@ import express, { Request, Response } from 'express';
 
 const router = express.Router();
 
-router.get('/sua-rota', (request: Request, response: Response) => {
-  // Seu código aqui
+router.get('/teste', (request: Request, response: Response) => {
   response.send('Hello World');
 });
 
